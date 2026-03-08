@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+cifar-10-batches-py/
+
